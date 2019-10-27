@@ -8,7 +8,7 @@ Since these were the important fields to be associated for a particular event, I
 
 For the REST API functions, considering the time I have chose only GET method and used it in two different methods
 GetAllEvents - Returns all the events associated with the eventsCollections.
-GetEventByName - Returns a particular event date and time based on the event name we provide as an input
+GetEventByName - Returns a particular event date and time based on the event name we provide as an input.
 I am also familiar with other REST API's like post,put and delete
 
            Executed my program as follows:
